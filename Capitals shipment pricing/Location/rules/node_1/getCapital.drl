@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>getCapital</name>
+  <uuid>07bf93e4-4eb6-4509-b1b4-ff6869e8b160</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[if
+	Name is a known country 
+then
+	set decision to the capital of the country named Name ; ]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

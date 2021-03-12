@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>checkTo</name>
+  <uuid>9e60e280-ac81-404e-b56e-38f0a46a038f</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[if
+	'Destination location' is undefined 
+then
+    print "The destination is not a known capital or country, please check its spelling";
+	set decision to -1 ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>getLocation</name>
+  <uuid>41dede4f-b7bd-4901-800b-59b00569b47d</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[if
+	Destination is a known city 
+then
+	set decision to the location named Destination ; ]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

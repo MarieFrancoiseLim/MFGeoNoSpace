@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>getLocation</name>
+  <uuid>e28a6b9e-20d0-4ee1-8c49-d0e5c92dcee4</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[  set decision to the location computed from
+      Name being Origin ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

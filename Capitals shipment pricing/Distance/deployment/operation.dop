@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="Distance">
+  <name>distance</name>
+  <uuid>18c037b7-2767-490b-b6f5-28968b714add</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#707229bd-0fc3-4811-8c21-9f63bc4c7082"/>
+  <targetRuleProject href="../../Distance#88bd5220-1a35-4963-a5e4-abab24cfa4e5"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>
