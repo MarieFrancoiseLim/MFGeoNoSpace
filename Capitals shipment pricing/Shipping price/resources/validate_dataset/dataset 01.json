@@ -4,11 +4,11 @@
     "weight": 0.9
   },
   "method": {
-    "transport": "Ground",
+    "nextDay": true,
     "pickup": "Dropoff",
-    "nextDay": true
+    "transport": "Ground"
   },
   "customer": "Silver",
-  "destination": "Unknown",
+  "destination": "London",
   "origin": "Paris"
 }

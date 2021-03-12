@@ -1,0 +1,14 @@
+{
+  "shipment": {
+    "size": "Letter",
+    "weight": "1.0"
+  },
+  "method": {
+    "nextDay": false,
+    "pickup": "Dropoff",
+    "transport": "Air"
+  },
+  "customer": "Bronze",
+  "destination": "Paris",
+  "origin": "London"
+}

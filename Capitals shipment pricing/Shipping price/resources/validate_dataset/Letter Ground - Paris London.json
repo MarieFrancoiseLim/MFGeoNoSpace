@@ -1,1 +1,14 @@
-{"shipment":{"size":"Letter","weight":0.9},"method":{"transport":"Ground","pickup":"Dropoff","next day":true},"customer":"Silver","origin":"Paris","destination":"London"}
+{
+  "shipment": {
+    "size": "Letter",
+    "weight": 0.9
+  },
+  "method": {
+    "transport": "Ground",
+    "pickup": "Dropoff",
+    "nextDay": true
+  },
+  "customer": "Silver",
+  "destination": "London",
+  "origin": "Paris"
+}
